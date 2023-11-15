@@ -12,6 +12,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/quote-readme@main
-        with:
-          OPTION: quote            # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
-          
