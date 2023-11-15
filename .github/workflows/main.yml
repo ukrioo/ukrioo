@@ -10,8 +10,8 @@ jobs:
   update-readme:
     name: Update Quote README
     runs-on: ubuntu-latest
-    WITH:
+    with:
       OPTION: quote
-    
+      
     steps:
       - uses: siddharth2016/quote-readme@main
