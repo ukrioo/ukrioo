@@ -6,4 +6,7 @@
 > Make sure to check it out if you want to know more!
 <br>
 <a href="https://discord.com/users/586962558435590154" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/586962558435590154.png"></a>
+<br>
+<h3>🏆Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true">
 </div>
