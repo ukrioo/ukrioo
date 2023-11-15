@@ -7,6 +7,14 @@
 <br>
 <a href="https://discord.com/users/586962558435590154" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/586962558435590154.png"></a>
 <br>
-<h3>🏆Trophies</h3>
+<h3>🏆 Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
+
+<h3>My Website</h3>
+
+> Did you know? <br>
+> You can visit by website by either going to [ukrio.is-a.dev](https://ukrio.is-a.dev) or [ukrioo.github.io](https://ukrioo.github.io)!
+
+<h6>Lighthouse PageSpeed Stats for my site:</h6>
+<a href="https://ukrioo.github.io/" target="_blank"><img height="70%" src="stat.svg"></a>
 </div>
