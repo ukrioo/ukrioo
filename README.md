@@ -10,13 +10,19 @@
 <h3>🏆 Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
 
-<h3>My Website</h3>
+<h3>🌐 Website</h3>
 
 > Did you know? <br>
 > You can visit by website by either going to [ukrio.is-a.dev](https://ukrio.is-a.dev) or [ukrioo.github.io](https://ukrioo.github.io)!
 
 <h6>Lighthouse PageSpeed Stats for my site:</h6>
 <a href="https://ukrioo.github.io/" target="_blank"><img height="70%" src="stat.svg"></a>
+
+<h5>Made it this far? Here's a joke</h5>
+
+> Im already sorry if its not good!
+
+<img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFD&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF">
 
 ---
 <!--STARTS_HERE_QUOTE_README-->
