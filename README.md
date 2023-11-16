@@ -21,10 +21,17 @@
 <h5>Made it this far? Here's a joke</h5>
 
 > Im already sorry if its not good!
-
-<img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFD&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF&hideBorder">
+<img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFF&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF&hideBorder">
 
 ---
+
+<h3>⚡ My Recent Activity</h3>
+
+> I hope you know, I'm not active here!
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<br>
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
