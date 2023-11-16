@@ -42,6 +42,8 @@
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukrioo/ukrioo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukrioo/ukrioo/output/github-contribution-grid-snake.svg">
