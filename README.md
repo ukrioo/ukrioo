@@ -8,7 +8,7 @@
 <a href="https://discord.com/users/586962558435590154" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/586962558435590154.png"></a>
 <br>
 <a href=" "><img src="https://readme-typing-svg.demolab.com?font=Urbanist&pause=2000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=150&lines=Hey+there!;How+are+you+doing+today%3F;Thats...+What+time+is+it+%3F;Is+that+really+good+for+your+health+%3F;You+should+get+some+rest." alt="Typing SVG" /></a>
-<br>
+
 <h3>🏆 Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
 
