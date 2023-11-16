@@ -25,9 +25,10 @@
 
 ---
 
-<h3>⚡ My Recent Activity</h3>
+<h3>⚡ Recent Activity</h3>
 
-> I hope you know, I'm not active here!
+> I hope you know, I'm not active here!<br>
+> ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#9383](https://github.com/is-a-dev/register/pull/9383) in [is-a-dev/register](https://github.com/is-a-dev/register)
