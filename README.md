@@ -22,7 +22,7 @@
 
 > Im already sorry if its not good!
 
-<img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFD&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF">
+<img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFD&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF&hideBorder">
 
 ---
 <!--STARTS_HERE_QUOTE_README-->
