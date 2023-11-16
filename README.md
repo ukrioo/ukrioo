@@ -32,11 +32,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9412](https://github.com/is-a-dev/register/pull/9412) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#9383](https://github.com/is-a-dev/register/pull/9383) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#9382](https://github.com/is-a-dev/register/pull/9382) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. ❌ Closed PR [#35](https://github.com/mizufare/jolyne-v2/pull/35) in [mizufare/jolyne-v2](https://github.com/mizufare/jolyne-v2)
-5. 🗣 Commented on [#35](https://github.com/mizufare/jolyne-v2/pull/35#issuecomment-1792959480) in [mizufare/jolyne-v2](https://github.com/mizufare/jolyne-v2)
+1. ❌ Closed PR [#9414](https://github.com/is-a-dev/register/pull/9414) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#9414](https://github.com/is-a-dev/register/pull/9414) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#9412](https://github.com/is-a-dev/register/pull/9412) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#9383](https://github.com/is-a-dev/register/pull/9383) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#9382](https://github.com/is-a-dev/register/pull/9382) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 <!--STARTS_HERE_QUOTE_README-->
