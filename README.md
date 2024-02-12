@@ -32,11 +32,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/mizufare/jolyne/pull/20) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
-2. 💪 Opened PR [#20](https://github.com/mizufare/jolyne/pull/20) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
-3. 🗣 Commented on [#19](https://github.com/mizufare/jolyne/pull/19#issuecomment-1925919410) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
-4. 💪 Opened PR [#19](https://github.com/mizufare/jolyne/pull/19) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
-5. 💪 Opened PR [#18](https://github.com/mizufare/jolyne/pull/18) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+1. 💪 Opened PR [#21](https://github.com/mizufare/jolyne/pull/21) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+2. ❌ Closed PR [#20](https://github.com/mizufare/jolyne/pull/20) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+3. 💪 Opened PR [#20](https://github.com/mizufare/jolyne/pull/20) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+4. 🗣 Commented on [#19](https://github.com/mizufare/jolyne/pull/19#issuecomment-1925919410) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+5. 💪 Opened PR [#19](https://github.com/mizufare/jolyne/pull/19) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
 <!--END_SECTION:activity-->
 <br>
 <!--STARTS_HERE_QUOTE_README-->
