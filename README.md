@@ -32,11 +32,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12194](https://github.com/is-a-dev/register/pull/12194) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#409](https://github.com/Mahmud0808/Iconify/issues/409#issuecomment-1913482886) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
-3. 🗣 Commented on [#409](https://github.com/Mahmud0808/Iconify/issues/409#issuecomment-1913478268) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
-4. ❗ Opened issue [#409](https://github.com/Mahmud0808/Iconify/issues/409) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
-5. 💪 Opened PR [#11336](https://github.com/is-a-dev/register/pull/11336) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#24](https://github.com/mizufare/jolyne/pull/24#issuecomment-1975290485) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+2. 💪 Opened PR [#24](https://github.com/mizufare/jolyne/pull/24) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+3. 💪 Opened PR [#12194](https://github.com/is-a-dev/register/pull/12194) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#409](https://github.com/Mahmud0808/Iconify/issues/409#issuecomment-1913482886) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
+5. 🗣 Commented on [#409](https://github.com/Mahmud0808/Iconify/issues/409#issuecomment-1913478268) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
 <!--END_SECTION:activity-->
 <br>
 <!--STARTS_HERE_QUOTE_README-->
