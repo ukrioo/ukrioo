@@ -32,8 +32,8 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/is-a-dev/is-a-dev.github.io/pull/15) in [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
-2. 🗣 Commented on [#24](https://github.com/mizufare/jolyne/pull/24#issuecomment-1975290485) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
+1. 🗣 Commented on [#265](https://github.com/Vencord/plugin-requests/issues/265#issuecomment-2027181649) in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)
+2. 💪 Opened PR [#15](https://github.com/is-a-dev/is-a-dev.github.io/pull/15) in [is-a-dev/is-a-dev.github.io](https://github.com/is-a-dev/is-a-dev.github.io)
 3. 💪 Opened PR [#24](https://github.com/mizufare/jolyne/pull/24) in [mizufare/jolyne](https://github.com/mizufare/jolyne)
 4. 💪 Opened PR [#12194](https://github.com/is-a-dev/register/pull/12194) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🗣 Commented on [#409](https://github.com/Mahmud0808/Iconify/issues/409#issuecomment-1913482886) in [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify)
