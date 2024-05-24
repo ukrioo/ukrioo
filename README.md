@@ -5,9 +5,10 @@
 > You can find all about me and my socials on my site,
 > Make sure to check it out if you want to know more!
 <br>
+<div style="display:flex;">
 <a href="https://discord.com/users/586962558435590154" target="_blank"><img src="https://lanyard.cnrad.dev/api/586962558435590154?bg=transperent&borderRadius=unset&animated=true&idleMessage=Not%20doing%20anything%20right%20now!"></a>
-<br>
 <a href=" "><img src="https://readme-typing-svg.demolab.com?font=Urbanist&pause=2000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=150&lines=Hey+there!;How+are+you+doing+today%3F;Thats...+What+time+is+it+%3F;Is+that+really+good+for+your+health+%3F;You+should+get+some+rest." alt="Typing SVG" /></a>
+</div>
 <h3>🏆 Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
 
@@ -19,9 +20,8 @@
 <h6>Lighthouse PageSpeed Stats for my site:</h6>
 <a href="https://ukrioo.github.io/" target="_blank"><img height="70%" src="stat.svg"></a>
 
+> Outdated.. Too lazy to update!
 <h5>Made it this far? Here's a joke</h5>
-
-> Im already sorry if its not good!
 <img src="https://readme-jokes.vercel.app/api?qColor=%23FFFFFF&aColor=&23FFFFFF&borderColor=%23FFFFFF&textColor=%23FFFFFF&codeColor=%23FFFFFF&hideBorder">
 
 ---
@@ -39,8 +39,6 @@
 5. ❗ Opened issue [#20200](https://github.com/FortAwesome/Font-Awesome/issues/20200) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 <!--END_SECTION:activity-->
 <br>
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
 
 ---
 
