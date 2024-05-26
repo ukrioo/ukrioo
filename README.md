@@ -43,7 +43,7 @@
 ---
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: contain; filter: brightness(75%); width: 100%; opacity: 0.7; background: url('https://github.com/ukrioo/ukrioo.github.io/blob/main/resources/images/bg.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: contain; filter: brightness(50%); width: 100%; opacity: 0.7; background: url('https://github.com/ukrioo/ukrioo.github.io/blob/main/resources/images/bg.jpg?raw=true');]{x0000}$}
 
 ```
 <picture>
