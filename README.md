@@ -41,13 +41,12 @@
 <br>
 
 ---
-
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://i.pinimg.com/736x/cf/df/71/cfdf7123f69072b4986167c7133b814e.jpg');]{x0000}$}
+```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ukrioo/ukrioo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ukrioo/ukrioo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ukrioo/ukrioo/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://i.pinimg.com/736x/cf/df/71/cfdf7123f69072b4986167c7133b814e.jpg');]{x0000}$}
-```
