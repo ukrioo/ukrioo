@@ -10,7 +10,11 @@
 <a href=" "><img src="https://readme-typing-svg.demolab.com?font=Urbanist&pause=2000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=150&lines=Hey+there!;How+are+you+doing+today%3F;Thats...+What+time+is+it+%3F;Is+that+really+good+for+your+health+%3F;You+should+get+some+rest." alt="Typing SVG" /></a>
 </div>
 <h3>🏆 Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4&theme=darkhub">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
+  <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4&theme=darkhub">
+</picture>
 
 <h3>🌐 Website</h3>
 
