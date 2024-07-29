@@ -36,11 +36,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1188](https://github.com/open-domains/register/pull/1188#issuecomment-2123031466) in [open-domains/register](https://github.com/open-domains/register)
-2. 💪 Opened PR [#1188](https://github.com/open-domains/register/pull/1188) in [open-domains/register](https://github.com/open-domains/register)
-3. 🗣 Commented on [#13935](https://github.com/is-a-dev/register/pull/13935#issuecomment-2105675848) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#13935](https://github.com/is-a-dev/register/pull/13935) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ❗ Opened issue [#20200](https://github.com/FortAwesome/Font-Awesome/issues/20200) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+1. 💪 Opened PR [#15166](https://github.com/is-a-dev/register/pull/15166) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#1188](https://github.com/open-domains/register/pull/1188#issuecomment-2123031466) in [open-domains/register](https://github.com/open-domains/register)
+3. 💪 Opened PR [#1188](https://github.com/open-domains/register/pull/1188) in [open-domains/register](https://github.com/open-domains/register)
+4. 🗣 Commented on [#13935](https://github.com/is-a-dev/register/pull/13935#issuecomment-2105675848) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#13935](https://github.com/is-a-dev/register/pull/13935) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 
