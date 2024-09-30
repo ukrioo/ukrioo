@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ukriu/ukriu.github.io/pull/5) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-2. 🗣 Commented on [#5](https://github.com/ukriu/ukriu.github.io/pull/5#issuecomment-2376636786) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-3. 💪 Opened PR [#1568](https://github.com/open-domains/register/pull/1568) in [open-domains/register](https://github.com/open-domains/register)
-4. 💪 Opened PR [#2](https://github.com/creeperita09/i-really-respect-your-opinion/pull/2) in [creeperita09/i-really-respect-your-opinion](https://github.com/creeperita09/i-really-respect-your-opinion)
-5. 💪 Opened PR [#1](https://github.com/creeperita09/i-really-respect-your-opinion/pull/1) in [creeperita09/i-really-respect-your-opinion](https://github.com/creeperita09/i-really-respect-your-opinion)
+1. 💪 Opened PR [#23](https://github.com/ScathachGrip/merahputih.moe/pull/23) in [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe)
+2. 🎉 Merged PR [#5](https://github.com/ukriu/ukriu.github.io/pull/5) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+3. 🗣 Commented on [#5](https://github.com/ukriu/ukriu.github.io/pull/5#issuecomment-2376636786) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+4. 💪 Opened PR [#1568](https://github.com/open-domains/register/pull/1568) in [open-domains/register](https://github.com/open-domains/register)
+5. 💪 Opened PR [#2](https://github.com/creeperita09/i-really-respect-your-opinion/pull/2) in [creeperita09/i-really-respect-your-opinion](https://github.com/creeperita09/i-really-respect-your-opinion)
 <!--END_SECTION:activity-->
 <br>
 
